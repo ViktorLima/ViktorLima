@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViktorLima
 <div align="center">
   <a href="https://github.com/ViktorLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
 <<h1>Sistemas operacionais</h1>
 <div>

@@ -1,10 +1,6 @@
  👋Hello, I'm @ViktorLima
 I work as a fullstack developer, graduated in Systems Analysis and Development at Unip, I've been passionate about technology since I was 14, I've always liked electronic games and science fiction, my life goal is to make a great contribution to the world of programming!
 <div>
-  <a href="https://github.com/ViktorLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<div>
  <h1>My social networks</h1>
  <a href="https://www.linkedin.com/in/victor-lima-404ba41a1/" target="_blank"><img  align="center" alt="Viktor-Visual" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  <a href="https://www.instagram.com/viktor_slima" target="_blank"><img  align="center" alt="Viktor-Visual" height="30" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />      

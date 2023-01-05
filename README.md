@@ -6,7 +6,7 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
 </div>
 <div>
   <h1>My social networks</h1>
-  <img align="center" alt="Viktor-Instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg">
+  <img align="center" alt="Viktor-Instagram" height="30" width="40" src="<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/ViktorLima/README.md/main/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>">
 </div>
 <div>
   <h1>My skills</h1>

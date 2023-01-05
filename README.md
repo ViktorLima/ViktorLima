@@ -15,12 +15,12 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <img align="center" alt="Viktor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-<h1>IDES</h1>
+<h1>My Ides</h1>
 <img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 <img align="center" alt="Viktor-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/> 
 </div>
 <div>
-<h1>Operational systems</h1>
+<h1>My Operational systems</h1>
 <img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />   
  <img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
 </div>

@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ViktorLima
+- 👋Hello, I'm @ViktorLima
+I work as a fullstack developer, graduated in Systems Analysis and Development at Unip, I've been passionate about technology since I was 14, I've always liked electronic games and science fiction, my life goal is to make a great contribution to the world of programming!
 <div align="center">
   <a href="https://github.com/ViktorLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">

@@ -1,6 +1,8 @@
  👋Hello, I'm @ViktorLima
 I work as a fullstack developer, graduated in Systems Analysis and Development at Unip, I've been passionate about technology since I was 14, I've always liked electronic games and science fiction, my life goal is to make a great contribution to the world of programming!
 <div>
+ <h1>My social networks</h1>
+ <a href="https://instagram.com/viktor_slima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/victor-lima-404ba41a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>

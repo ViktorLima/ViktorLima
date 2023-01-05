@@ -3,10 +3,6 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
 <div align="center">
   <a href="https://github.com/ViktorLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    </div>
-  <div>
-  <h1>My skills</h1>
-  <img align="center" alt="Viktor-Likendin" height="30" width="40" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 <div>
   <h1>My skills</h1>

@@ -13,7 +13,8 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
 </div>
 <div>
 <h1>IDES</h1>
-<img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />                  
+<img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
+<img align="center" alt="Viktor-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/> 
 </div>
 <div>
 <h1>Operational systems</h1>

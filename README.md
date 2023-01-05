@@ -1,4 +1,4 @@
-- 👋Hello, I'm @ViktorLima
+ 👋Hello, I'm @ViktorLima
 I work as a fullstack developer, graduated in Systems Analysis and Development at Unip, I've been passionate about technology since I was 14, I've always liked electronic games and science fiction, my life goal is to make a great contribution to the world of programming!
 <div>
   <h1>My skills</h1>

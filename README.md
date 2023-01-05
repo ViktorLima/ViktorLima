@@ -4,12 +4,7 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <a href="https://github.com/ViktorLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
-   <div>
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-```
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
 <div>
   <h1>Minhas skills</h1>
   <img align="center" alt="Viktor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

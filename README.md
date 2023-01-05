@@ -18,5 +18,7 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
 </div>
 <div>
 <h1>Operational systems</h1>
-<img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />          
+<img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />   
+ <img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+           
 </div>

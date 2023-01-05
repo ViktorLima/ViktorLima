@@ -6,7 +6,7 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
 </div>
    <div>
   <h1>My social networks</h1>
-  <img align="center" alt="Viktor-Js" height="30" width="40" src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev">
+  <img align="center" alt="Viktor-Js" height="30" width="40" src="https://Viktor.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://Viktor.dev">
 
 </div>
 <div>

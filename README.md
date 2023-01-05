@@ -2,7 +2,7 @@
 I work as a fullstack developer, graduated in Systems Analysis and Development at Unip, I've been passionate about technology since I was 14, I've always liked electronic games and science fiction, my life goal is to make a great contribution to the world of programming!
 <div>
   <a href="https://github.com/ViktorLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div>
  <h1>My social networks</h1>

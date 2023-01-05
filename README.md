@@ -4,7 +4,11 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <a href="https://github.com/ViktorLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
- 
+   <div>
+  <h1>My social networks</h1>
+  <img align="center" alt="Viktor-Js" height="30" width="40" src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev">
+
+</div>
 <div>
   <h1>Minhas skills</h1>
   <img align="center" alt="Viktor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,3 +16,4 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <img align="center" alt="Viktor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viktor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+

@@ -5,8 +5,9 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
    <div>
-  <h1>My social networks</h1>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+```md
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+```
 
 </div>
 <div>

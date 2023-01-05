@@ -6,7 +6,7 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
     </div>
   <div>
   <h1>My skills</h1>
-  <img align="center" alt="Viktor-Likendin" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)/https://www.linkedin.com/victor-lima-404ba41a1/">
+  <img align="center" alt="Viktor-Likendin" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/victor-lima-404ba41a1/">
 </div>
 <div>
   <h1>My skills</h1>

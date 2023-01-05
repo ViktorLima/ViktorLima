@@ -5,8 +5,8 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViktorLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
 <div>
-  <h1>My social networks</h1>
-  <img align="center" alt="Viktor-Instagram" height="30" width="40" src="<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/ViktorLima/README.md/main/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>">
+# 🔗 My Social Networks
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/victor-lima-404ba41a1/)
 </div>
 <div>
   <h1>My skills</h1>

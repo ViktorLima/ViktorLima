@@ -14,5 +14,5 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
 </div>
 <div>
 <h1>IDES</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />          
+<img align="center" alt="Viktor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />          
 </div>

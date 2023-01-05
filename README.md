@@ -12,4 +12,7 @@ I work as a fullstack developer, graduated in Systems Analysis and Development a
   <img align="center" alt="Viktor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viktor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<div>
+<h1>IDES</h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />          
+</div>
